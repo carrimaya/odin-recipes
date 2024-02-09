@@ -1,0 +1,27 @@
+/*css style sheet*/
+
+h1 {
+
+    text-decoration-line: overline underline;
+    font-weight:bold;
+}
+
+ul {
+    list-style-type:none;
+}
+
+.ingredients  {
+    list-style-type: circle;
+}
+
+.description, h1 {
+    text-align:center;    
+    color:rgb(76, 14, 134);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
